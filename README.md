@@ -1,5 +1,7 @@
 # Game-Design-Game 
-[Lander](Lander/index.html)
+
+git status
+git add 
 # Bugs-to-fix
 1. Game overs
 
@@ -19,7 +21,4 @@
 *Set the rotation speed to 0.5 and the push to 10.
 *I will most likley change the above values to help make the controls tighter.
 
-# Enhancements 
-
-(To be expanded at a later date)
 
